@@ -59,6 +59,10 @@ header {
   gap: 10px;
 }
 
+.logo-img {
+  width: 225px;
+}
+
 .logo-icon {
   background-color: var(--primary);
   width: 45px;
