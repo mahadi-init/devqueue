@@ -688,6 +688,10 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .hero-content {
+    margin-top: 60px;
+  }
+
   .nav-links .nav-items {
     display: none;
   }
