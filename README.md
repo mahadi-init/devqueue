@@ -42,7 +42,7 @@ You need a web browser to view the website.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Mahadi Hasan - [email](mailto:init.mahadi@gmail.com)
 
 Project Link: [https://github.com/mahadi-init/devqueue](https://github.com/mahadi-init/devqueue)
 
