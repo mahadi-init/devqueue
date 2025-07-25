@@ -30,7 +30,7 @@ You need a web browser to view the website.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/DevQueue.git
+   git clone https://github.com/mahadi-init/devqueue.git
    ```
 2. Open `index.html` in your browser.
 
@@ -38,13 +38,13 @@ You need a web browser to view the website.
 
 | Desktop | Mobile |
 | --- | --- |
-| ![Desktop Screenshot](https://placehold.co/600x400?text=Desktop+View) | ![Mobile Screenshot](https://placehold.co/300x600?text=Mobile+View) |
+| ![Desktop Screenshot](./images/desktop.png) | ![Mobile Screenshot](./images/mobile.png) |
 
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-Project Link: [https://github.com/your_username_/DevQueue](https://github.com/your_username_/DevQueue)
+Project Link: [https://github.com/mahadi-init/devqueue](https://github.com/mahadi-init/devqueue)
 
 ## License
 
